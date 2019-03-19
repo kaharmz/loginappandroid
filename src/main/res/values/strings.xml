@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Login Application</string>
+    <string name="failed">Failed</string>
+    <string name="email_id">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="create_a_new_account">Create a new account</string>
+    <string name="passwords">Password</string>
+    <string name="email">Email</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_a_member_login">Already a member? Login</string>
+    <string name="after_login">After Login</string>
+    <string name="logout">LogOut</string>
+</resources>
